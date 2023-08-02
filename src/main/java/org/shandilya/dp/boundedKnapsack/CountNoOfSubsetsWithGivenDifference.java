@@ -1,4 +1,4 @@
-package org.shandilya.dp.binaryKnapsack;
+package org.shandilya.dp.boundedKnapsack;
 
 // This can also be reduced to target sum problem where we can apply + and - sign and target is
 // to find a target value. We need to find the ways in which we can find the count

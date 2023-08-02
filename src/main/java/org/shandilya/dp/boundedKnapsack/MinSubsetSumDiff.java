@@ -1,4 +1,4 @@
-package org.shandilya.dp.binaryKnapsack;
+package org.shandilya.dp.boundedKnapsack;
 
 public class MinSubsetSumDiff {
 

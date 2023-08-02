@@ -1,4 +1,4 @@
-package org.shandilya.dp.binaryKnapsack;
+package org.shandilya.dp.boundedKnapsack;
 
 public class CountSubsetsOfGivenSum {
     private static int fun(int[] arr, int sum, int index) {
